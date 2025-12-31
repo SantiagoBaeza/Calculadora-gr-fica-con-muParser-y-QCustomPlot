@@ -21,7 +21,7 @@ El objetivo principal fue combinar el análisis de expresiones matemáticas con 
 ## Capturas
 
 - **Captura 01**: Interfaz principal con la función ingresada y el gráfico generado.  
-  ![Interfaz](screenshot.png)
+  ![Interfaz](https://github.com/SantiagoBaeza/Calculadora-gr-fica-con-muParser-y-QCustomPlot/blob/main/01_captura.jpg)
 
 ---
 
